@@ -2,7 +2,7 @@
 Airline Performance & Passenger Experience Dashboard
 Unlocking Insights into Airline Operations, Passenger Trends, and On-Time Performance
 
-Short Description / Purpose:
+Purpose:
 The Airline database is designed to simulate real-world aviation data, including flights, passengers, bookings, crew assignments, and delays. This project builds a robust analytical dashboard to monitor flight operations, passenger satisfaction, revenue performance, and delay patterns.
 
 Tech Stack:
